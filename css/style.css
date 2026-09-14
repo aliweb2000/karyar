@@ -1,0 +1,757 @@
+* {
+    box-sizing: border-box;
+    font-weight: 500;
+    font-family: Vazirmatn, Arial, Helvetica, sans-serif;
+}
+
+html {
+    font-size: 20px;
+    direction: rtl;
+}
+
+body {
+    position: relative;
+    background-color: #ecedee;
+}
+
+.header1 {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    height: 50px;
+    padding: 20px;
+    position: fixed;
+    width: 2000px;
+
+}
+
+.text__1 {
+    padding: 10px;
+    color: black;
+}
+
+.text__2 {
+    padding: 10px;
+    color: black;
+
+}
+
+.text__3 {
+    padding: 10px;
+    color: black;
+}
+
+.home2 {
+    padding-right: 1200px;
+    color: black;
+
+
+
+}
+
+.text__4 {
+    font-size: 20px;
+}
+
+
+.text__5 {
+    padding-right: 50px;
+    color: black;
+}
+
+.text__7 {
+    padding: 20px;
+    font-size: 24px;
+    color: brown;
+}
+
+.text {
+    color: black;
+}
+
+.text__8 {
+    font-size: 18px;
+    padding: 20px;
+}
+
+.text__9 {
+    font-size: 24px;
+    padding-right: 20px;
+    width: 100px;
+}
+
+.store12 {
+    margin-right: 1680px;
+    margin-top: -20px;
+    font-size: 18px;
+}
+
+.text__10 {
+    padding: 10px;
+    font-size: 18px;
+    padding-right: 20px;
+}
+
+.saidbar {
+    width: 250px;
+    height: 500px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin-right: 20px;
+    position: fixed;
+    border-radius: 20px;
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+.p {
+    padding-right: 20px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.product {
+    font-size: 18px;
+    margin-bottom: 10px;
+
+}
+
+.price {
+    font-size: 18px;
+}
+
+.star {
+    font-size: 18px;
+}
+
+.serch {
+    margin-right: 300px;
+    width: 1500px;
+    padding-top: 10px;
+    border-radius: 20px;
+    text-align: right;
+    font-size: 18px;
+}
+
+.naet {
+    margin-right: 300px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.product__6 {
+    margin-right: 1700px;
+    font-size: 18px;
+    margin-top: -12px;
+}
+
+.areng {
+    font-size: 20px;
+}
+
+.filter {
+    font-size: 24px;
+}
+
+.reng {
+    font-size: 20px;
+}
+
+.user {
+    font-size: 20px;
+}
+
+.image__1 {
+    margin-right: 300px;
+    background-color: #ffffff;
+    width: 470px;
+    height: 320px;
+    border-radius: 20px;
+
+}
+
+.product_text_1 {
+    margin-right: 10px;
+}
+
+.price_text_2 {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.image__2 {
+    background-color: #ffffff;
+    margin-right: 790px;
+    width: 470px;
+    height: 320px;
+    margin-top: -320px;
+    border-radius: 20px;
+}
+
+.image__3 {
+    background-color: #ffffff;
+    margin-right: 1280px;
+    width: 470px;
+    height: 320px;
+    margin-top: -320px;
+    border-radius: 20px;
+}
+
+.image__4 {
+    background-color: #ffffff;
+    width: 470px;
+    height: 320px;
+    margin-right: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.image__5 {
+    background-color: #ffffff;
+    width: 470px;
+    height: 320px;
+    margin-right: 790px;
+    margin-top: -320px;
+    border-radius: 20px;
+
+}
+
+.image__6 {
+    background-color: #ffffff;
+    width: 470px;
+    height: 320px;
+    margin-right: 1280px;
+    margin-top: -320px;
+    border-radius: 20px;
+}
+
+.footer {
+    height: 70px;
+    background-color: #152840;
+    margin-top: 28px;
+    position: fixed;
+    width: 2000px;
+}
+
+.text_footer {
+    padding-top: 20px;
+    padding-right: 20px;
+    color: white;
+    width: 300px;
+
+
+}
+
+.text_footer_1 {
+    color: white;
+    margin-top: -20px;
+    padding-right: 800px;
+}
+
+.star {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.img__1 {
+    border-radius: 20px 20px 0 0;
+}
+
+.text_footer_year {
+    margin-right: 1800px;
+    margin-top: -20px;
+    color: white;
+}
+
+.digital {
+    padding-top: 60px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+.productimg1 {
+    padding-top: 20px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.productimg2 {
+    padding-top: 10px;
+    padding-right: 40px;
+    border-radius: 20px;
+
+}
+
+.productimg3 {
+    padding-top: 10px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.productimg4 {
+    margin-right: 150px;
+    margin-top: -235px;
+    border-radius: 20px;
+}
+
+.sels {
+    width: 50px;
+    height: 20px;
+    background-color: #1f6d0b;
+    margin-right: 600px;
+    font-size: 12px;
+    padding-right: 2px;
+    padding-top: 2px;
+    margin-top: -400px;
+}
+
+.fe {
+    margin-right: 600px;
+    font-size: xx-large;
+    margin-top: 20px;
+}
+
+.galaxy {
+    margin-right: 600px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.pricemobile {
+    font-size: xx-large;
+    margin-right: 600px;
+    margin-top: 80px;
+    width: 500px;
+
+
+
+}
+
+.buy {
+
+    font-size: x-large;
+    background-color: #1f6d0b;
+    color: white;
+
+
+}
+
+.send {
+    margin-right: 600px;
+    margin-top: 40px;
+    color: #1f6d0b;
+}
+
+.user1122 {
+    margin-right: 60px;
+    margin-top: 80px;
+}
+
+.uption {
+    width: 1800px;
+    height: 100px;
+    background-color: #ffffff;
+    margin-right: 40px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.uption2 {
+    width: 1800px;
+    height: 100px;
+    background-color: #ffffff;
+    margin-right: 40px;
+    margin-top: 40px;
+    border-radius: 20px;
+
+}
+
+.moamadi {
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.uption1 {
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+.user1133 {
+    padding-top: 15px;
+    padding-right: 20px;
+
+}
+
+.uption3 {
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+.signup {
+
+    height: 100px;
+
+
+    margin-right: 200px;
+}
+
+.signup__1 {
+    width: 450px;
+    height: 600px;
+    background-color: #ffffff;
+    margin-right: 700px;
+    border-radius: 20px;
+}
+
+.creat {
+    padding-right: 90px;
+    padding-top: 20px;
+}
+
+.make {
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 75px;
+}
+
+.inpute {
+    width: 380px;
+    margin-right: 30px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.email {
+    margin-right: 30px;
+    padding-top: 10px;
+}
+
+.numberphone {
+    width: 380px;
+    margin-right: 30px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.number {
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+.password_text {
+    width: 380px;
+    margin-right: 30px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.password {
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+.repassword_text {
+    width: 380px;
+    margin-right: 30px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.repassword {
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+.remove {
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 180px;
+    font-size: x-large;
+    border-radius: 10px;
+    color: green;
+
+
+
+}
+
+.signupb {
+    margin-right: 30px;
+    font-size: x-large;
+    width: 180px;
+    border-radius: 10px;
+    background-color: rgb(3, 97, 3);
+    color: white;
+    border: 3px solid green;
+
+
+}
+
+input:hover {
+    border: 2px solid green;
+}
+
+input:hover:invalid {
+    border: 2px solid red;
+}
+
+input {
+    border: 2px solid rgb(151, 150, 150);
+    text-align: end;
+}
+
+.bodyi footer {
+    margin-top: 180px;
+}
+.galaxyi{
+    margin-right: 600px;
+}
+
+@media(prefers-color-scheme: dark) {
+    body {
+        background-color: #0f172a;
+        color: white;
+    }
+
+    .header1 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .saidbar {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__1 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__2 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__3 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__4 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__5 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .image__6 {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .footer {
+        background-color: #030617;
+    }
+
+    .serch {
+        background-color: #212e40;
+        color: white;
+    }
+
+    .home1 {
+        color: white;
+    }
+
+    .text__1 {
+
+        color: white;
+    }
+
+    .text__2 {
+
+        color: white;
+
+    }
+
+    .text__3 {
+
+        color: white;
+    }
+
+
+.text__5 {
+   
+    color: white;
+}
+.text{
+    color: white;
+}
+.text__4{
+    background-color: #030617;
+    color: white;
+}
+.uption{
+    background-color: #212e40;
+    color: white;
+}
+.uption2{
+    background-color: #212e40;
+    color: white;
+}
+.signup__1{
+    background-color: #212e40;
+    color: white;
+}
+
+}
+@media(max-width: 720px){
+     .saidbar{
+        display: none;
+
+    }
+    .text__2{
+        display: none;
+
+    }
+    .text__1{
+        display: none;
+    }
+   .home2{
+    padding-right: 200px;
+   }
+   .store12{
+    margin-right: 550px;
+   }
+   .serch{
+    margin-right: 30px;
+    width: 650px;
+   }
+   .naet__product{
+    margin-top: 5px;
+   }
+   .product__6{margin-right: 600px;
+   padding-bottom: 4px;
+  
+}
+.image__1{
+    margin-right: 40px;
+    width: 300px;
+    margin-top: 10px;
+}
+.img__1{
+    width: 300px;
+}
+.image__2{
+    margin-right: 380px;
+    width: 300px;
+    
+}
+.image__4{
+     margin-right: 40px;
+    width: 300px;
+    
+    
+    
+   
+}
+.image__5{
+     margin-right: 380px;
+    width: 300px;
+    margin-top: -660px;
+    
+   
+    
+  
+    
+    
+
+    
+
+}
+.image__3{
+    margin-right: 40px;
+   margin-top: 20px;
+    width: 300px;
+   
+   
+    
+}
+
+.image__6{
+ margin-right: 380px;
+ width: 300px;
+margin-top: 20px;
+margin-bottom: 100px;
+}
+.footer{
+    margin-top: -458px;
+    height: 90px;
+
+}
+.text_footer{
+    margin-top: -5px;
+    width: 400px;
+    font-size: 20px;
+}
+.text_footer_1{
+    margin-top: 10px;
+    padding-right: 20px;
+    font-size: 20px;
+    width: 400px;
+    
+    
+    
+}
+.text_footer_year{
+    margin-right: 600px;
+    
+}
+.sels{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.fe{
+    margin-right: 20px;
+}
+.galaxy{
+    margin-right: 20px;
+}
+.galaxyi{
+    margin-right: 20px;
+    font-size: 20px;
+   line-height: 1.5;
+}
+.pricemobile{
+    margin-right: 20px;
+}
+.send{
+    margin-right: 20px;
+}
+.uption{
+    width: 600px;
+}
+.uption2{
+    width: 600px;
+    margin-bottom: 100px;
+}
+.body2 footer{
+    margin-top: -542px;
+}
+.signup__1{
+    margin-right: 120px;
+}
+.bodyi footer{
+    margin-top: 150px;
+}
+}
+   
+
+
